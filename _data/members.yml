@@ -1,0 +1,10 @@
+# Members
+
+- name: Apaar Shanker
+  role: Data Scientist / Materials Informatics
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  github: auag92
+  #gplus: https://plus.google.com/+AhmetCecen-GPlus
+  bio: Apaar Shanker is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s and master's degree in Materials Science at Indian Institute of Science, Bangalore. Apaar has been doing research in the field of computational materials science for the past 2 years, throug his undergraduate and graduate studies. For his undergraduate thesis, he developed a phasefiled code coupled with fluid flow solvers to simulate alloy solidification in presence of convection. He has also interned at GE India Technology Center where he worked on characterizing industrial gas turbine components after service exposure with the aim of developing more efficient repair protocols. Apaar is interested in harnessing materials informatics, statistics, and machine learning to the bridge the gaps in the overarching paradigm of multiscale modeling in computational materials science.
+  url: https://auag92.github.io/project-pages/
+  visible: true
